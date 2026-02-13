@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Ana Flávia
 
-Desenvolvedora com foco em integrações entre sistemas e automações utilizando APIs REST.
+Desenvolvedora com foco em integrações entre sistemas e automações.
 
 Tenho direcionado meus estudos e projetos pessoais para construção de fluxos automatizados, autenticação segura (OAuth 2.0) e comunicação entre serviços externos.
 
@@ -48,13 +48,6 @@ Tenho direcionado meus estudos e projetos pessoais para construção de fluxos a
 
 ---
 
-## 📌 Projeto em Destaque
-
-🔹 **Image Collector**  
-Integração entre Unsplash API e Google Drive com autenticação OAuth 2.0 para automação de coleta e organização de imagens na nuvem.
-
----
-
 ## 🎯 Objetivo Profissional
 
 Construir especialização em integrações entre sistemas e automação de fluxos, desenvolvendo soluções que conectem serviços externos de forma segura, organizada e escalável.
@@ -64,3 +57,4 @@ Construir especialização em integrações entre sistemas e automação de flux
 ## 📫 Conecte-se comigo
 
 LinkedIn: www.linkedin.com/in/anad3v
+
