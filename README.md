@@ -40,12 +40,13 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=An4D3v&theme=tokyo-night&hide_border=true"/>
+  <img height="220em" src="https://github-readme-activity-graph.vercel.app/graph?username=An4D3v&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
 
 
 
