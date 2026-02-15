@@ -44,12 +44,13 @@
 </p>
 
 <p align="left">
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
 
 
 
