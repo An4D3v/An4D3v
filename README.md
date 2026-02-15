@@ -39,17 +39,14 @@
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=An4D3v&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=An4D3v&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
 </p>
 
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
 
 
 
