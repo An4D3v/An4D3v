@@ -39,11 +39,12 @@
 
 ## 📊 Estatísticas
 
-<p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=An4D3v&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=dark"/>
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=An4D3v&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
