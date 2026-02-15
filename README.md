@@ -14,11 +14,7 @@
 ## 🚀 Tecnologias que utilizo no dia a dia
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,postgres,azure&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,postgres,azure,git&theme=dark" />
 </p>
 
 ---
@@ -42,6 +38,7 @@
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
 
 
 
