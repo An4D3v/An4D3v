@@ -2,11 +2,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anad3v/">
-    <img height="40" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/An4D3v">
-    <img height="40" src="https://skillicons.dev/icons?i=github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
 </p>
 
@@ -39,6 +39,7 @@
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
 
 
 
