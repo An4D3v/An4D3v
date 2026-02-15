@@ -40,12 +40,13 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=An4D3v&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An4D3v&layout=donut&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
 
 
 
