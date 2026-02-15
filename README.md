@@ -1,11 +1,11 @@
 <h1 align="left">Olá, eu sou Ana 👩‍💻</h1>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anad3v/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  <a href="https://www.linkedin.com/in/anad3v/">
+    <img height="40" style="margin-right: 15px;" src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://github.com/An4D3v" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <a href="https://github.com/An4D3v">
+    <img height="40" src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
 </p>
 
@@ -38,6 +38,7 @@
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
 
 
 
