@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou Ana Neves 👩‍💻</h1>
+<h1 align="left">Olá, eu sou Ana 👩‍💻</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anad3v/">
@@ -50,6 +50,7 @@
 ---
 
 💬 *"Transformando integrações complexas em automações estruturadas."*
+
 
 
 
