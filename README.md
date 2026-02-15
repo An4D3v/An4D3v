@@ -1,60 +1,49 @@
-# 👩🏽‍💻 Ana Flávia
+<h1 align="left">Olá, eu sou Ana Neves 👩‍💻</h1>
 
-Desenvolvedora com foco em integrações entre sistemas e automações.
-
-Tenho direcionado meus estudos e projetos pessoais para construção de fluxos automatizados, autenticação segura (OAuth 2.0) e comunicação entre serviços externos.
-
----
-
-## 🚀 Foco Atual
-
-- Integração entre APIs
-- Automação de processos
-- Autenticação OAuth 2.0
-- Arquitetura modular em Python
-- Organização de fluxos entre sistemas
+<p align="left">
+  <a href="https://www.linkedin.com/in/anad3v/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/An4D3v">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias que utilizo no dia a dia
 
-### 💻 Linguagens
-- Python
-- C#
-
-### 🔗 Integrações & APIs
-- REST APIs
-- Google Drive API
-- Unsplash API
-- OAuth 2.0
-- Microsoft Graph API
-
-### ☁️ Cloud & Infraestrutura
-- Azure
-- Azure SQL
-- Azure Automation
-- SQL Server
-
-### 🗄️ Banco de Dados
-- SQL Server
-- Azure SQL Database
-
-### 📦 Ferramentas & Boas Práticas
-- Git & GitHub
-- Versionamento de código
-- Uso de variáveis de ambiente (.env)
-- Estruturação modular de projetos
-- Manipulação de arquivos e automações
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft Graph-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LegalOne API-1E1E1E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🧠 Atuação técnica
 
-Construir especialização em integrações entre sistemas e automação de fluxos, desenvolvendo soluções que conectem serviços externos de forma segura, organizada e escalável.
+- 🔄 Integração e consumo de APIs REST (LegalOne, Microsoft Graph)
+- ☁️ Automação e execução via Azure (Runbooks, Managed Identity)
+- 🗄️ Modelagem e manipulação de dados (SQL Server & PostgreSQL)
+- 🔁 Processamento incremental, paginação e controle de integridade
+- 🔐 Boas práticas de segurança e versionamento de código
 
 ---
 
-## 📫 Conecte-se comigo
+## 📊 Estatísticas
 
-LinkedIn: www.linkedin.com/in/anad3v
+<p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=An4D3v&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=dark"/>
+</p>
 
+---
+
+💬 *"Transformando integrações complexas em automações estruturadas."*
