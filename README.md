@@ -113,7 +113,7 @@ public class AnaNeves : IBackendDeveloper
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/An4D3v/An4D3v/output/github-snake-purple.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/An4D3v/An4D3v/output/github-snake-purple.svg?v=2" alt="snake animation" />
 
 </div>
 
