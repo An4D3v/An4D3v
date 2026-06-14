@@ -62,6 +62,12 @@ public class AnaNeves : IBackendDeveloper
 
 ## 🧰 Stack
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=%24+stack+--list;Backend%3A+C%23+%C2%B7+.NET+%C2%B7+Python;Cloud%3A+Azure+%C2%B7+Microsoft+365;Sempre%3A+Bots+%C2%B7+IA+%C2%B7+Automa%C3%A7%C3%A3o" alt="stack terminal" />
+
+</div>
+
 **🔤 Linguagens**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
