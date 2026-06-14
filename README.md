@@ -19,17 +19,17 @@
 
 ---
 
-```bash
-ana@dev:~$ whoami
-> Ana Flávia — backend dev movida a café e C# ☕
-
-ana@dev:~$ cat sobre.md
-> 1ª e única dev da equipe de um escritório jurídico em São Paulo, BR 🇧🇷.
-> Construí sozinha 13 APIs .NET + 3 robôs Python — do desenho à produção.
-> Transformo integrações complexas em automações que rodam 24/7.
-
-ana@dev:~$ ls ~/skills/
-> pipelines/   bots-ia/   azure/   automacoes-rpa/
+```
+   /\_/\        ana@github
+  ( o.o )       ───────────────────────────────────────
+   > ^ <        Role     : Desenvolvedora Backend .NET
+                Company  : Escritório jurídico · 1ª dev
+                Location : São Paulo, Brasil
+                Stack    : C# · .NET · Python · Azure
+                Focus    : Bots · IA · Automação & RPA
+                Shipped  : 13 APIs .NET + 3 robôs (solo)
+                Mindset  : integrações complexas → automações
+                Uptime   : café ∞
 ```
 
 ---
