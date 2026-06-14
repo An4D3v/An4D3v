@@ -62,21 +62,67 @@ public class AnaNeves : IBackendDeveloper
 
 ## 🧰 Stack
 
-<div align="center">
+**🔤 Linguagens**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,powershell,azure,postgres,mysql,selenium,fastapi,git,github,visualstudio,vscode&theme=dark&perline=8" />
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-</div>
+**☁️ Cloud & Microsoft**
 
-> **Linguagens** &nbsp;`C#` · `.NET` · `Python` · `Node.js` · `TypeScript` · `PowerShell` · `SQL/T-SQL`
->
-> **Cloud & Microsoft** &nbsp;`Azure App Service` · `Bot Service` · `Azure SQL` · `Azure Automation (Runbooks)` · `App Insights` · `Entra ID` · `Storage Account`
->
-> **Backend & Integrações** &nbsp;`REST APIs` · `OAuth2` · `Microsoft Graph` · `SharePoint` · `MERGE/upsert` · `BulkCopy + staging` · `watermark composto` · `retry com backoff` · `idempotência`
->
-> **Bots & IA** &nbsp;`Bot Framework` · `Adaptive Cards` · `IA Generativa (LLM APIs)` · `prompt engineering` · `relatórios HTML`
->
-> **Automação & RPA** &nbsp;`Selenium` · `FastAPI` · `OCR/Tesseract` · `pandas` · `openpyxl`
+![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bot Service](https://img.shields.io/badge/Bot%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Automation](https://img.shields.io/badge/Azure%20Automation-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![App Insights](https://img.shields.io/badge/App%20Insights-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Storage Account](https://img.shields.io/badge/Storage%20Account-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**🗄️ Dados**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🔌 Backend & Integrações**
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-8B5CF6?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-8B5CF6?style=for-the-badge)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-8B5CF6?style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![MERGE/upsert](https://img.shields.io/badge/MERGE%2Fupsert-8B5CF6?style=for-the-badge)
+![BulkCopy + staging](https://img.shields.io/badge/BulkCopy%20%2B%20staging-8B5CF6?style=for-the-badge)
+![watermark composto](https://img.shields.io/badge/watermark%20composto-8B5CF6?style=for-the-badge)
+![retry + backoff](https://img.shields.io/badge/retry%20%2B%20backoff-8B5CF6?style=for-the-badge)
+![idempotência](https://img.shields.io/badge/idempot%C3%AAncia-8B5CF6?style=for-the-badge)
+
+**🤖 Bots & IA**
+
+![Bot Framework](https://img.shields.io/badge/Bot%20Framework-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Adaptive Cards](https://img.shields.io/badge/Adaptive%20Cards-8B5CF6?style=for-the-badge)
+![IA Generativa](https://img.shields.io/badge/IA%20Generativa%20%28LLM%29-8B5CF6?style=for-the-badge)
+![prompt engineering](https://img.shields.io/badge/prompt%20engineering-8B5CF6?style=for-the-badge)
+![relatórios HTML](https://img.shields.io/badge/relat%C3%B3rios%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**⚙️ Automação & RPA**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-8B5CF6?style=for-the-badge)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**🧰 DevOps & Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
