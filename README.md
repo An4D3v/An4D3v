@@ -22,16 +22,16 @@
 <div align="center">
 
 <table align="center"><tr><td><pre>
-   /\_/\        ana@github
-  ( o.o )       ───────────────────────────────────────
-   &gt; ^ &lt;        Role     : Desenvolvedora Backend .NET
-  /|   |\       Company  : Escritório jurídico · 1ª dev
- ( |   | )      Location : São Paulo, Brasil
-  \|   |/       Stack    : C# · .NET · Python · Azure
-   |___|        Shell    : PowerShell · bash
-  (_) (_)       Focus    : Bots · IA · Automação & RPA
-                Shipped  : 13 APIs .NET + 3 robôs (solo)
-                Mindset  : integrações complexas → automações
+                ana@github
+                ───────────────────────────────────────
+   /\_/\        Role     : Desenvolvedora Backend .NET
+  ( o.o )       Company  : Escritório jurídico · 1ª dev
+   &gt; ^ &lt;        Location : São Paulo, Brasil
+  /|   |\       Stack    : C# · .NET · Python · Azure
+ ( |   | )      Shell    : PowerShell · bash
+  \|   |/       Focus    : Bots · IA · Automação & RPA
+   |___|        Shipped  : 13 APIs .NET + 3 robôs (solo)
+  (_) (_)       Mindset  : integrações complexas → automações
                 Uptime   : 24/7
                 Café     : [##########··] 98%
 </pre></td></tr></table>
