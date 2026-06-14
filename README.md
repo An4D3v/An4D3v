@@ -20,15 +20,15 @@
 ---
 
 ```bash
-ana@m3bs:~$ whoami
+ana@dev:~$ whoami
 > Ana Flávia — backend dev movida a café e C# ☕
 
-ana@m3bs:~$ cat sobre.md
-> 1ª e única dev da equipe na M3BS Advogados (São Paulo, BR 🇧🇷).
+ana@dev:~$ cat sobre.md
+> 1ª e única dev da equipe de um escritório jurídico em São Paulo, BR 🇧🇷.
 > Construí sozinha 13 APIs .NET + 3 robôs Python — do desenho à produção.
 > Transformo integrações complexas em automações que rodam 24/7.
 
-ana@m3bs:~$ ls ~/skills/
+ana@dev:~$ ls ~/skills/
 > pipelines/   bots-ia/   azure/   automacoes-rpa/
 ```
 
@@ -37,12 +37,12 @@ ana@m3bs:~$ ls ~/skills/
 ## 🧬 `whoami.cs`
 
 ```csharp
-namespace M3BS.Tech;
+namespace Dev.Backend;
 
 public class AnaNeves : IBackendDeveloper
 {
     public string Role     => "Desenvolvedora Backend .NET";
-    public string Company  => "M3BS Advogados";          // 1ª dev da equipe
+    public string Focus    => "Integrações, Bots & Automação na nuvem";
     public string Location => "São Paulo, Brasil 🇧🇷";
     public string Coffee   => "☕".Repeat(int.MaxValue);
 
@@ -74,7 +74,7 @@ public class AnaNeves : IBackendDeveloper
 >
 > **Backend & Integrações** &nbsp;`REST APIs` · `OAuth2` · `Microsoft Graph` · `SharePoint` · `MERGE/upsert` · `BulkCopy + staging` · `watermark composto` · `retry com backoff` · `idempotência`
 >
-> **Bots & IA** &nbsp;`Bot Framework` · `Adaptive Cards` · `Perplexity API` · `prompt engineering` · `relatórios HTML`
+> **Bots & IA** &nbsp;`Bot Framework` · `Adaptive Cards` · `IA Generativa (LLM APIs)` · `prompt engineering` · `relatórios HTML`
 >
 > **Automação & RPA** &nbsp;`Selenium` · `FastAPI` · `OCR/Tesseract` · `pandas` · `openpyxl`
 
@@ -84,11 +84,11 @@ public class AnaNeves : IBackendDeveloper
 
 | Projeto | O que faz | Stack |
 | :--- | :--- | :--- |
-| 🧠 **IRIS** — Central de IA Jurídica `🔒` | Bot interno no Teams para consultas jurídicas com IA, análise via ANS e relatórios HTML por e-mail | `.NET 8` · `Bot Framework` · `Perplexity API` · `App Insights` |
-| 🔁 **Pipelines LegalOne** `🔒` | 7+ integrações incrementais → Azure SQL, **4.5M+ registros**, MERGE/upsert idempotente com watermark | `C#` · `Azure SQL` · `OAuth2` · `BulkCopy` · `Runbooks` |
-| ⚖️ **Bot Predictus** `🔒` | Consulta processual por CNJ no Teams, com dashboard em Adaptive Cards e múltiplos graus | `.NET` · `Bot Framework` · `API Predictus` |
-| 🤖 **RoboANS → SharePoint** `🔒` | Robô que baixa relatórios da ANS para 10 operadoras e publica no SharePoint — **−65% de esforço manual** | `Python` · `Selenium` · `Graph API` · `MSAL` |
-| 🖼️ **Image Collector** | Projeto pessoal: sync de imagens Unsplash ↔ Google Drive ↔ PostgreSQL com UPSERT e soft delete | `Python` · `PostgreSQL` · `OAuth 2.0` |
+| 🧠 **Assistente de IA Jurídica** `🔒` | Bot interno no Teams para consultas jurídicas com IA, com análise estruturada e relatórios HTML por e-mail | `.NET 8` · `Bot Framework` · `IA Generativa` · `App Insights` |
+| 🔁 **Pipelines de Integração Jurídica** `🔒` | 7+ integrações incrementais com ERP jurídico → Azure SQL, **4.5M+ registros**, MERGE/upsert idempotente com watermark | `C#` · `Azure SQL` · `OAuth2` · `BulkCopy` · `Runbooks` |
+| ⚖️ **Bot de Consulta Processual** `🔒` | Consulta de processos por CNJ no Teams, com dashboard em Adaptive Cards e múltiplos graus | `.NET` · `Bot Framework` · `REST API` |
+| 🤖 **Robô de Coleta & Publicação** `🔒` | Robô que coleta relatórios de portal regulatório para múltiplos clientes e publica no SharePoint — **−65% de esforço manual** | `Python` · `Selenium` · `Graph API` · `MSAL` |
+| 🖼️ **Image Collector** | Projeto pessoal: sync de imagens entre Unsplash ↔ Google Drive ↔ PostgreSQL com UPSERT e soft delete | `Python` · `PostgreSQL` · `OAuth 2.0` |
 
 <sub>`🔒` = repositórios privados na organização da empresa.</sub>
 
