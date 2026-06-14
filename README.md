@@ -46,7 +46,7 @@ public class AnaNeves : IBackendDeveloper
     public string Location => "São Paulo, Brasil 🇧🇷";
     public string Coffee   => "☕".Repeat(int.MaxValue);
 
-    public string[] Stack    => ["C#/.NET 8", "Python", "Azure", "SQL Server", "PostgreSQL"];
+    public string[] Stack    => ["C#/.NET", "Python", "Azure", "SQL Server", "PostgreSQL"];
     public string[] Building => ["Pipelines incrementais", "Bots com IA", "Automações & RPA"];
 
     public async Task<Result> ShipAsync(Idea idea) =>
@@ -68,7 +68,7 @@ public class AnaNeves : IBackendDeveloper
 
 </div>
 
-> **Linguagens** &nbsp;`C#` · `.NET 8` · `Python` · `Node.js` · `TypeScript` · `PowerShell` · `SQL/T-SQL`
+> **Linguagens** &nbsp;`C#` · `.NET` · `Python` · `Node.js` · `TypeScript` · `PowerShell` · `SQL/T-SQL`
 >
 > **Cloud & Microsoft** &nbsp;`Azure App Service` · `Bot Service` · `Azure SQL` · `Azure Automation (Runbooks)` · `App Insights` · `Entra ID` · `Storage Account`
 >
@@ -84,7 +84,7 @@ public class AnaNeves : IBackendDeveloper
 
 | Projeto | O que faz | Stack |
 | :--- | :--- | :--- |
-| 🧠 **Assistente de IA Jurídica** `🔒` | Bot interno no Teams para consultas jurídicas com IA, com análise estruturada e relatórios HTML por e-mail | `.NET 8` · `Bot Framework` · `IA Generativa` · `App Insights` |
+| 🧠 **Assistente de IA Jurídica** `🔒` | Bot interno no Teams para consultas jurídicas com IA, com análise estruturada e relatórios HTML por e-mail | `.NET` · `Bot Framework` · `IA Generativa` · `App Insights` |
 | 🔁 **Pipelines de Integração Jurídica** `🔒` | 7+ integrações incrementais com ERP jurídico → Azure SQL, **4.5M+ registros**, MERGE/upsert idempotente com watermark | `C#` · `Azure SQL` · `OAuth2` · `BulkCopy` · `Runbooks` |
 | ⚖️ **Bot de Consulta Processual** `🔒` | Consulta de processos por CNJ no Teams, com dashboard em Adaptive Cards e múltiplos graus | `.NET` · `Bot Framework` · `REST API` |
 | 🤖 **Robô de Coleta & Publicação** `🔒` | Robô que coleta relatórios de portal regulatório para múltiplos clientes e publica no SharePoint — **−65% de esforço manual** | `Python` · `Selenium` · `Graph API` · `MSAL` |
@@ -104,6 +104,16 @@ public class AnaNeves : IBackendDeveloper
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=An4D3v&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" />
 
 <img width="850em" src="https://github-readme-activity-graph.vercel.app/graph?username=An4D3v&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=8B5CF6&point=ffffff" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/An4D3v/An4D3v/output/github-snake-purple.svg" alt="snake animation" />
 
 </div>
 
