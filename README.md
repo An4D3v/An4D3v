@@ -103,8 +103,6 @@ public class AnaNeves : IBackendDeveloper
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=An4D3v&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" />
 
-<img width="850em" src="https://github-readme-activity-graph.vercel.app/graph?username=An4D3v&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=8B5CF6&point=ffffff" />
-
 </div>
 
 ---
@@ -113,7 +111,7 @@ public class AnaNeves : IBackendDeveloper
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/An4D3v/An4D3v/output/github-snake-purple.svg?v=2" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/An4D3v/An4D3v/output/github-snake-purple.svg?v=3" alt="snake animation" />
 
 </div>
 
