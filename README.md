@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=55&lines=Desenvolvedora+Backend+.NET+8;Azure+%2B+Microsoft+365+Integrations;Bots+com+IA+%2B+Automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o;Pipelines+que+processam+4.5M%2B+registros" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=55&lines=Desenvolvedora+Backend+.NET;Azure+%2B+Microsoft+365+Integrations;Bots+com+IA+%2B+Automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o;Pipelines+que+processam+4.5M%2B+registros" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/anad3v/">
