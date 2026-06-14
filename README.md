@@ -23,10 +23,11 @@
    /\_/\        ana@github
   ( o.o )       ───────────────────────────────────────
    > ^ <        Role     : Desenvolvedora Backend .NET
-                Company  : Escritório jurídico · 1ª dev
-                Location : São Paulo, Brasil
-                Stack    : C# · .NET · Python · Azure
-                Focus    : Bots · IA · Automação & RPA
+  /|   |\       Company  : Escritório jurídico · 1ª dev
+ ( |   | )      Location : São Paulo, Brasil
+  \|   |/       Stack    : C# · .NET · Python · Azure
+   |___|        Shell    : PowerShell · bash
+  (_) (_)       Focus    : Bots · IA · Automação & RPA
                 Shipped  : 13 APIs .NET + 3 robôs (solo)
                 Mindset  : integrações complexas → automações
                 Uptime   : café ∞
