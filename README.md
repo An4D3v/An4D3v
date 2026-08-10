@@ -167,8 +167,10 @@ public class AnaNeves : IBackendDeveloper
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=An4D3v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=A78BFA&title_color=A78BFA&cache_seconds=86400" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA&cache_seconds=86400" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 <img height="170em" src="https://streak-stats.demolab.com/?user=An4D3v&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" />
 
