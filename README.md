@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=55&lines=Desenvolvedora+Backend+.NET;Azure+%2B+Microsoft+365+Integrations;Bots+com+IA+%2B+Automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o;Pipelines+que+processam+4.5M%2B+registros" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=55&lines=Desenvolvedora+Backend+.NET;Azure+%2B+Microsoft+365+Integrations;Bots+com+IA+%2B+Automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o;Pipelines+que+processam+4.5M%2B+registros;Full-stack%3A+React+%2B+Supabase;CI%2FCD+%2B+Azure+end-to-end" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/anad3v/">
@@ -27,10 +27,10 @@
    /\_/\        Role     : Desenvolvedora Backend .NET
   ( o.o )       Company  : Escritório jurídico · 1ª dev
    &gt; ^ &lt;        Location : São Paulo, Brasil
-  /|   |\       Stack    : C# · .NET · Python · Azure
+  /|   |\       Stack    : C# · .NET · Python · Azure · React
  ( |   | )      Shell    : PowerShell · bash
   \|   |/       Focus    : Bots · IA · Automação & RPA
-   |___|        Shipped  : 13 APIs .NET + 3 robôs (solo)
+   |___|        Shipped  : 13 APIs .NET + 3 robôs + app full-stack
   (_) (_)       Mindset  : integrações complexas → automações
                 Uptime   : 24/7
                 Café     : [##########··] 98%
@@ -52,8 +52,8 @@ public class AnaNeves : IBackendDeveloper
     public string Location => "São Paulo, Brasil 🇧🇷";
     public string Coffee   => "☕".Repeat(int.MaxValue);
 
-    public string[] Stack    => ["C#/.NET", "Python", "Azure", "SQL Server", "PostgreSQL"];
-    public string[] Building => ["Pipelines incrementais", "Bots com IA", "Automações & RPA"];
+    public string[] Stack    => ["C#/.NET", "Python", "Azure", "SQL Server", "PostgreSQL", "React"];
+    public string[] Building => ["Pipelines incrementais", "Bots com IA", "Automações & RPA", "CI/CD"];
 
     public async Task<Result> ShipAsync(Idea idea) =>
         await idea
@@ -70,7 +70,7 @@ public class AnaNeves : IBackendDeveloper
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=%24+stack+--list;Backend%3A+C%23+%C2%B7+.NET+%C2%B7+Python;Cloud%3A+Azure+%C2%B7+Microsoft+365;Sempre%3A+Bots+%C2%B7+IA+%C2%B7+Automa%C3%A7%C3%A3o" alt="stack terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=%24+stack+--list;Backend%3A+C%23+%C2%B7+.NET+%C2%B7+Python;Cloud%3A+Azure+%C2%B7+Microsoft+365;Full-stack%3A+React+%C2%B7+Supabase;Sempre%3A+Bots+%C2%B7+IA+%C2%B7+Automa%C3%A7%C3%A3o" alt="stack terminal" />
 
 </div>
 
@@ -91,8 +91,10 @@ public class AnaNeves : IBackendDeveloper
 ![Bot Service](https://img.shields.io/badge/Bot%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Automation](https://img.shields.io/badge/Azure%20Automation-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![App Insights](https://img.shields.io/badge/App%20Insights-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Storage Account](https://img.shields.io/badge/Storage%20Account-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **🗄️ Dados**
@@ -108,9 +110,7 @@ public class AnaNeves : IBackendDeveloper
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-8B5CF6?style=for-the-badge)
 ![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![MERGE/upsert](https://img.shields.io/badge/MERGE%2Fupsert-8B5CF6?style=for-the-badge)
-![BulkCopy + staging](https://img.shields.io/badge/BulkCopy%20%2B%20staging-8B5CF6?style=for-the-badge)
-![watermark composto](https://img.shields.io/badge/watermark%20composto-8B5CF6?style=for-the-badge)
-![retry + backoff](https://img.shields.io/badge/retry%20%2B%20backoff-8B5CF6?style=for-the-badge)
+![reconciliação de dados](https://img.shields.io/badge/reconcilia%C3%A7%C3%A3o%20de%20dados-8B5CF6?style=for-the-badge)
 ![idempotência](https://img.shields.io/badge/idempot%C3%AAncia-8B5CF6?style=for-the-badge)
 
 **🤖 Bots & IA**
@@ -120,6 +120,13 @@ public class AnaNeves : IBackendDeveloper
 ![IA Generativa](https://img.shields.io/badge/IA%20Generativa%20%28LLM%29-8B5CF6?style=for-the-badge)
 ![prompt engineering](https://img.shields.io/badge/prompt%20engineering-8B5CF6?style=for-the-badge)
 ![relatórios HTML](https://img.shields.io/badge/relat%C3%B3rios%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**🖥️ Front-end & Full-stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **⚙️ Automação & RPA**
 
@@ -133,6 +140,7 @@ public class AnaNeves : IBackendDeveloper
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -143,10 +151,13 @@ public class AnaNeves : IBackendDeveloper
 | Projeto | O que faz | Stack |
 | :--- | :--- | :--- |
 | 🧠 **Assistente de IA Jurídica** `🔒` | Bot interno no Teams para consultas jurídicas com IA, com análise estruturada e relatórios HTML por e-mail | `.NET` · `Bot Framework` · `IA Generativa` · `App Insights` |
-| 🔁 **Pipelines de Integração Jurídica** `🔒` | 7+ integrações incrementais com ERP jurídico → Azure SQL, **4.5M+ registros**, MERGE/upsert idempotente com watermark | `C#` · `Azure SQL` · `OAuth2` · `BulkCopy` · `Runbooks` |
+| 🔁 **Pipelines de Integração Jurídica** `🔒` | 7+ integrações incrementais com ERP jurídico → Azure SQL, **4.5M+ registros**, MERGE/upsert idempotente com watermark; CI/CD via GitHub Actions + OIDC | `C#` · `Azure SQL` · `OAuth2` · `CI/CD` · `Runbooks` |
+| 🗃️ **Migração de Dados SharePoint → Azure SQL** `🔒` | Migração de ~292k registros de listas SharePoint para um Azure SQL dedicado, com reconciliação (origem = destino, **zero divergência**) e autenticação sem senha via Entra ID | `C#` · `Python` · `Graph API` · `Azure SQL` · `Entra ID` |
 | ⚖️ **Bot de Consulta Processual** `🔒` | Consulta de processos por CNJ no Teams, com dashboard em Adaptive Cards e múltiplos graus | `.NET` · `Bot Framework` · `REST API` |
 | 🤖 **Robô de Coleta & Publicação** `🔒` | Robô que coleta relatórios de portal regulatório para múltiplos clientes e publica no SharePoint — **−65% de esforço manual** | `Python` · `Selenium` · `Graph API` · `MSAL` |
-| 🖼️ **Image Collector** | Projeto pessoal: sync de imagens entre Unsplash ↔ Google Drive ↔ PostgreSQL com UPSERT e soft delete | `Python` · `PostgreSQL` · `OAuth 2.0` |
+| 💸 **[App de Finanças](https://github.com/An4D3v/financas-app)** | Full-stack próprio no ar: dashboard de finanças com **leitura de nota fiscal por IA** (foto do cupom → itens), arquitetura limpa e RLS | `React` · `TypeScript` · `Supabase` · `IA (LLM)` · `Vercel` |
+| 🖼️ **[Image Collector](https://github.com/An4D3v/image-collector)** | Sync de imagens entre Unsplash ↔ Google Drive ↔ PostgreSQL, com UPSERT, soft delete e verificação de integridade | `Python` · `PostgreSQL` · `Google Drive API` · `OAuth 2.0` |
+| 🍀 **[Vale do Trevo](https://github.com/An4D3v/vale-do-trevo)** | Jogo 2D top-down desenhado à mão em canvas puro — capítulo 1 | `Vite` · `TypeScript` · `Canvas` |
 
 <sub>`🔒` = repositórios privados na organização da empresa.</sub>
 
@@ -156,10 +167,10 @@ public class AnaNeves : IBackendDeveloper
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=An4D3v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=A78BFA&title_color=A78BFA" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=An4D3v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=A78BFA&title_color=A78BFA&cache_seconds=86400" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An4D3v&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=A78BFA&cache_seconds=86400" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=An4D3v&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" />
+<img height="170em" src="https://streak-stats.demolab.com/?user=An4D3v&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" />
 
 </div>
 
