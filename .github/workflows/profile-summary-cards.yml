@@ -13,5 +13,17 @@ jobs:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AUTO_PUSH: false
         with:
           USERNAME: An4D3v
+      - name: Commit cards (so se mudou)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          if git diff --staged --quiet; then
+            echo "Sem mudancas nos cards. Nada a commitar (isso e OK)."
+          else
+            git commit -m "chore: atualiza profile summary cards"
+            git push
+          fi
