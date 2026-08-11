@@ -171,8 +171,7 @@ public class AnaNeves : IBackendDeveloper
 <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 
 <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
-
-<img height="170em" src="https://streak-stats.demolab.com/?user=An4D3v&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
 </div>
 
