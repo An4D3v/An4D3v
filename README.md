@@ -171,7 +171,6 @@ public class AnaNeves : IBackendDeveloper
 <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 
 <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 
 </div>
 
