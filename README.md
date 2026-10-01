@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=55&lines=Desenvolvedora+Backend+.NET;Azure+%2B+Microsoft+365+Integrations;Bots+com+IA+%2B+Automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o;Pipelines+que+processam+4.5M%2B+registros;Full-stack%3A+React+%2B+Supabase;CI%2FCD+%2B+Azure+end-to-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=55&lines=Desenvolvedora+Backend+.NET;Azure+%2B+Microsoft+365+Integrations;Bots+com+IA+%2B+Automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o;Pipelines+que+processam+4.5M%2B+registros;Microsservi%C3%A7os+.NET+%2B+Angular;Full-stack%3A+React+%2B+Supabase;CI%2FCD+%2B+Azure+end-to-end" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/anad3v/">
@@ -30,7 +30,7 @@
   /|   |\       Stack    : C# · .NET · Python · Azure · React
  ( |   | )      Shell    : PowerShell · bash
   \|   |/       Focus    : Bots · IA · Automação & RPA
-   |___|        Shipped  : 13 APIs .NET + 3 robôs + app full-stack
+   |___|        Shipped  : 10+ pipelines · 3 robôs · bots IA · 2 apps
   (_) (_)       Mindset  : integrações complexas → automações
                 Uptime   : 24/7
                 Café     : [##########··] 98%
@@ -52,7 +52,7 @@ public class AnaNeves : IBackendDeveloper
     public string Location => "São Paulo, Brasil 🇧🇷";
     public string Coffee   => "☕".Repeat(int.MaxValue);
 
-    public string[] Stack    => ["C#/.NET", "Python", "Azure", "SQL Server", "PostgreSQL", "React"];
+    public string[] Stack    => ["C#/.NET", "Python", "Azure", "SQL Server", "PostgreSQL", "React", "Angular"];
     public string[] Building => ["Pipelines incrementais", "Bots com IA", "Automações & RPA", "CI/CD"];
 
     public async Task<Result> ShipAsync(Idea idea) =>
@@ -124,9 +124,11 @@ public class AnaNeves : IBackendDeveloper
 **🖥️ Front-end & Full-stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 **⚙️ Automação & RPA**
 
@@ -155,11 +157,15 @@ public class AnaNeves : IBackendDeveloper
 | 🗃️ **Migração de Dados SharePoint → Azure SQL** `🔒` | Migração de ~292k registros de listas SharePoint para um Azure SQL dedicado, com reconciliação (origem = destino, **zero divergência**) e autenticação sem senha via Entra ID | `C#` · `Python` · `Graph API` · `Azure SQL` · `Entra ID` |
 | ⚖️ **Bot de Consulta Processual** `🔒` | Consulta de processos por CNJ no Teams, com dashboard em Adaptive Cards e múltiplos graus | `.NET` · `Bot Framework` · `REST API` |
 | 🤖 **Robô de Coleta & Publicação** `🔒` | Robô que coleta relatórios de portal regulatório para múltiplos clientes e publica no SharePoint — **−65% de esforço manual** | `Python` · `Selenium` · `Graph API` · `MSAL` |
+| 🤝 **Central de IA no Teams** `🔒` | Bot corporativo com **SSO (Entra ID)** em piloto com usuários reais: assistentes de IA dentro do Teams, com Adaptive Cards | `.NET` · `Bot Framework` · `Entra ID` · `IA (LLM)` |
+| 📬 **Classificação de publicações com IA** `🔒` | Classificador LLM de publicações jurídicas em produção, com **medição de acurácia** contra gabarito humano e execução sombra antes de promover modelo novo | `.NET` · `IA (LLM)` · `SQL Server` · `Runbooks` |
+| 🧾 **[Notas Fiscais — microsserviços](https://github.com/An4D3v/Korp_Teste_AnaNeves)** | Emissão de notas com **2 microsserviços** (Estoque/Faturamento): concorrência no UPDATE atômico, idempotência, recuperação de falha e IA com modo offline — **28 testes de integração** contra SQL Server real | `C#/.NET 8` · `Angular` · `EF Core` · `SQL Server` |
 | 💸 **[App de Finanças](https://github.com/An4D3v/financas-app)** | Full-stack próprio no ar: dashboard de finanças com **leitura de nota fiscal por IA** (foto do cupom → itens), arquitetura limpa e RLS | `React` · `TypeScript` · `Supabase` · `IA (LLM)` · `Vercel` |
+| 🧭 **Rumo — rotinas pessoais** `🔒` | PWA próprio em produção: rotinas com lembretes por **Web Push**, login com MFA (TOTP) e painel administrativo separado | `React` · `TypeScript` · `Supabase` · `PWA` · `Vercel` |
 | 🖼️ **[Image Collector](https://github.com/An4D3v/image-collector)** | Sync de imagens entre Unsplash ↔ Google Drive ↔ PostgreSQL, com UPSERT, soft delete e verificação de integridade | `Python` · `PostgreSQL` · `Google Drive API` · `OAuth 2.0` |
 | 🍀 **[Vale do Trevo](https://github.com/An4D3v/vale-do-trevo)** | Jogo 2D top-down desenhado à mão em canvas puro — capítulo 1 | `Vite` · `TypeScript` · `Canvas` |
 
-<sub>`🔒` = repositórios privados na organização da empresa.</sub>
+<sub>`🔒` = repositório privado (da empresa ou pessoal).</sub>
 
 ---
 
