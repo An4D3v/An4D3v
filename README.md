@@ -12,7 +12,6 @@
   <a href="mailto:ana-neves98@outlook.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=A78BFA"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=An4D3v&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
