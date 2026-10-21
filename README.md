@@ -29,7 +29,7 @@
   /|   |\       Stack    : C# · .NET · Python · Azure · React
  ( |   | )      Shell    : PowerShell · bash
   \|   |/       Focus    : Bots · IA · Automação & RPA
-   |___|        Shipped  : 10+ pipelines · 3 robôs · bots IA · 2 apps
+   |___|        Shipped  : 10+ pipelines · 3 robôs · bots IA · 3 apps
   (_) (_)       Mindset  : integrações complexas → automações
                 Uptime   : 24/7
                 Café     : [##########··] 98%
@@ -156,13 +156,14 @@ public class AnaNeves : IBackendDeveloper
 | 🗃️ **Migração de Dados SharePoint → Azure SQL** `🔒` | Migração de ~292k registros de listas SharePoint para um Azure SQL dedicado, com reconciliação (origem = destino, **zero divergência**) e autenticação sem senha via Entra ID | `C#` · `Python` · `Graph API` · `Azure SQL` · `Entra ID` |
 | ⚖️ **Bot de Consulta Processual** `🔒` | Consulta de processos por CNJ no Teams, com dashboard em Adaptive Cards e múltiplos graus | `.NET` · `Bot Framework` · `REST API` |
 | 🤖 **Robô de Coleta & Publicação** `🔒` | Robô que coleta relatórios de portal regulatório para múltiplos clientes e publica no SharePoint — **−65% de esforço manual** | `Python` · `Selenium` · `Graph API` · `MSAL` |
-| 🤝 **Central de IA no Teams** `🔒` | Bot corporativo com **SSO (Entra ID)** em piloto com usuários reais: assistentes de IA dentro do Teams, com Adaptive Cards | `.NET` · `Bot Framework` · `Entra ID` · `IA (LLM)` |
+| 🤝 **Central de IA no Teams** `🔒` | Bot corporativo com **SSO (Entra ID)** em produção: assistentes de IA dentro do Teams, com Adaptive Cards | `.NET` · `Bot Framework` · `Entra ID` · `IA (LLM)` |
 | 📬 **Classificação de publicações com IA** `🔒` | Classificador LLM de publicações jurídicas em produção, com **medição de acurácia** contra gabarito humano e execução sombra antes de promover modelo novo | `.NET` · `IA (LLM)` · `SQL Server` · `Runbooks` |
+| 🗓️ **Orquestração inteligente de cargas** `🔒` | Agendador que decide o que cada pipeline relê e quando, no lugar de janelas fixas — **−66% de chamadas à API** e **−91% de erros de cota** em produção | `C#` · `Azure Automation` · `SQL Server` · `REST APIs` |
 | 🧾 **[Notas Fiscais — microsserviços](https://github.com/An4D3v/Korp_Teste_AnaNeves)** | Emissão de notas com **2 microsserviços** (Estoque/Faturamento): concorrência no UPDATE atômico, idempotência, recuperação de falha e IA com modo offline — **28 testes de integração** contra SQL Server real | `C#/.NET 8` · `Angular` · `EF Core` · `SQL Server` |
-| 💸 **[App de Finanças](https://github.com/An4D3v/financas-app)** | Full-stack próprio no ar: dashboard de finanças com **leitura de nota fiscal por IA** (foto do cupom → itens), arquitetura limpa e RLS | `React` · `TypeScript` · `Supabase` · `IA (LLM)` · `Vercel` |
-| 🧭 **[Rumo — rotinas pessoais](https://rumo-amber.vercel.app)** `🔒` | PWA próprio em produção com **30+ usuários cadastrados**: rotinas com lembretes por **Web Push**, login com MFA (TOTP) e painel administrativo separado | `React` · `TypeScript` · `Supabase` · `PWA` · `Vercel` |
+| 💸 **[AlienFinanças](https://financas-app-ruby.vercel.app)** `🔒` | Full-stack próprio no ar: dashboard de finanças com **leitura de nota fiscal por IA** (foto do cupom → itens), arquitetura limpa e RLS | `React` · `TypeScript` · `Supabase` · `IA (LLM)` · `Vercel` |
+| 🧭 **[Rumo — rotinas pessoais](https://rumo-amber.vercel.app)** `🔒` | PWA próprio em produção com **40+ usuários cadastrados**: rotinas com lembretes por **Web Push**, login com MFA (TOTP) e painel administrativo separado | `React` · `TypeScript` · `Supabase` · `PWA` · `Vercel` |
 | 🖼️ **[Image Collector](https://github.com/An4D3v/image-collector)** | Sync de imagens entre Unsplash ↔ Google Drive ↔ PostgreSQL, com UPSERT, soft delete e verificação de integridade | `Python` · `PostgreSQL` · `Google Drive API` · `OAuth 2.0` |
-| 🍀 **[Vale do Trevo](https://github.com/An4D3v/vale-do-trevo)** | Jogo 2D top-down desenhado à mão em canvas puro — capítulo 1 | `Vite` · `TypeScript` · `Canvas` |
+| 🍀 **[Vale do Trevo](https://github.com/An4D3v/vale-do-trevo)** | Jogo 2D top-down desenhado à mão em canvas puro — capítulo 1, **[jogável no navegador](https://vale-do-trevo.vercel.app)** | `Vite` · `TypeScript` · `Canvas` |
 
 <sub>`🔒` = repositório privado (da empresa ou pessoal).</sub>
 
