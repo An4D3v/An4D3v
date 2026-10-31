@@ -9,6 +9,9 @@
   <a href="https://github.com/An4D3v">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA"/>
   </a>
+  <a href="https://ana-neves.vercel.app">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA"/>
+  </a>
   <a href="mailto:ana-neves98@outlook.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=A78BFA"/>
   </a>
@@ -29,7 +32,7 @@
   /|   |\       Stack    : C# · .NET · Python · Azure · React
  ( |   | )      Shell    : PowerShell · bash
   \|   |/       Focus    : Bots · IA · Automação & RPA
-   |___|        Shipped  : 10+ pipelines · 3 robôs · bots IA · 3 apps
+   |___|        Shipped  : 10+ pipelines · 3 robôs · bots IA · 4 apps
   (_) (_)       Mindset  : integrações complexas → automações
                 Uptime   : 24/7
                 Café     : [##########··] 98%
@@ -81,6 +84,7 @@ public class AnaNeves : IBackendDeveloper
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
@@ -120,7 +124,7 @@ public class AnaNeves : IBackendDeveloper
 ![prompt engineering](https://img.shields.io/badge/prompt%20engineering-8B5CF6?style=for-the-badge)
 ![relatórios HTML](https://img.shields.io/badge/relat%C3%B3rios%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**🖥️ Front-end & Full-stack**
+**🖥️ Front-end, Mobile & Full-stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -128,6 +132,8 @@ public class AnaNeves : IBackendDeveloper
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 **⚙️ Automação & RPA**
 
@@ -159,9 +165,10 @@ public class AnaNeves : IBackendDeveloper
 | 🤝 **Central de IA no Teams** `🔒` | Bot corporativo com **SSO (Entra ID)** em produção: assistentes de IA dentro do Teams, com Adaptive Cards | `.NET` · `Bot Framework` · `Entra ID` · `IA (LLM)` |
 | 📬 **Classificação de publicações com IA** `🔒` | Classificador LLM de publicações jurídicas em produção, com **medição de acurácia** contra gabarito humano e execução sombra antes de promover modelo novo | `.NET` · `IA (LLM)` · `SQL Server` · `Runbooks` |
 | 🗓️ **Orquestração inteligente de cargas** `🔒` | Agendador que decide o que cada pipeline relê e quando, no lugar de janelas fixas — **−66% de chamadas à API** e **−91% de erros de cota** em produção | `C#` · `Azure Automation` · `SQL Server` · `REST APIs` |
-| 🧾 **[Notas Fiscais — microsserviços](https://github.com/An4D3v/notas-fiscais-microsservicos)** | Emissão de notas com **2 microsserviços** (Estoque/Faturamento): concorrência no UPDATE atômico, idempotência, recuperação de falha e IA com modo offline — **28 testes de integração** contra SQL Server real | `C#/.NET 8` · `Angular` · `EF Core` · `SQL Server` |
-| 💸 **[AlienFinanças](https://financas-app-ruby.vercel.app)** `🔒` | Full-stack próprio no ar: dashboard de finanças com **leitura de nota fiscal por IA** (foto do cupom → itens), arquitetura limpa e RLS | `React` · `TypeScript` · `Supabase` · `IA (LLM)` · `Vercel` |
+| 🧾 **[Notas Fiscais — microsserviços](https://github.com/An4D3v/notas-fiscais-microsservicos)** | **[No ar](https://notas-fiscais-ana.vercel.app)**: emissão de notas com **2 microsserviços** (Estoque/Faturamento): concorrência no UPDATE atômico, idempotência, recuperação de falha e IA com modo offline — **28 testes de integração** contra SQL Server real | `C#/.NET 8` · `Angular` · `EF Core` · `SQL Server` |
+| 👽 **[Alien — finanças pessoais](https://financas-app-ruby.vercel.app)** `🔒` | Full-stack próprio no ar com **40+ usuários cadastrados**: dashboard de finanças com **leitura de nota fiscal por IA** (foto do cupom → itens), arquitetura limpa e RLS | `React` · `TypeScript` · `Supabase` · `IA (LLM)` · `Vercel` |
 | 🧭 **[Rumo — rotinas pessoais](https://rumo-amber.vercel.app)** `🔒` | PWA próprio em produção com **40+ usuários cadastrados**: rotinas com lembretes por **Web Push**, login com MFA (TOTP) e painel administrativo separado | `React` · `TypeScript` · `Supabase` · `PWA` · `Vercel` |
+| 🎞️ **[Zootropo — papel de parede animado](https://zootropo.vercel.app)** `🔒` | App Android nativo no ar: um vídeo ou GIF da galeria vira **papel de parede animado** em loop, com mini editor; o APK assinado sai pelo próprio site, verificado no VirusTotal | `Kotlin` · `Jetpack Compose` · `Media3` · `Vercel` |
 | 🖼️ **[Image Collector](https://github.com/An4D3v/image-collector)** | Sync de imagens entre Unsplash ↔ Google Drive ↔ PostgreSQL, com UPSERT, soft delete e verificação de integridade | `Python` · `PostgreSQL` · `Google Drive API` · `OAuth 2.0` |
 | 🍀 **[Vale do Trevo](https://github.com/An4D3v/vale-do-trevo)** | Jogo 2D top-down desenhado à mão em canvas puro — capítulo 1, **[jogável no navegador](https://vale-do-trevo.vercel.app)** | `Vite` · `TypeScript` · `Canvas` |
 
